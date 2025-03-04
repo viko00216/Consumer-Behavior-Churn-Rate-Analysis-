@@ -11,7 +11,7 @@ Our e-commerce grocery store's customer base consists of 241 unique customers, c
 ![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/629a5b41073fc047c31d9e0ab5e44bb55ab0c4eb/Screenshot%20(46).png)
 
 ## Geographical Distribution
-![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/12ea0a8d3e9651aa3b02658935683ae7e6d3e42d/Screenshot%20(47).png)
+![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/04932128aaf8fa268f22e1f43b369d47dff113a3/Screenshot%20(45).png)
 
 ## Membership Distribution
 ![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/12ea0a8d3e9651aa3b02658935683ae7e6d3e42d/Screenshot%20(47).png)
