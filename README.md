@@ -1,5 +1,6 @@
 # Consumer-Behavior-Churn-Rate-Analysis-
-![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/49b060520fc5e829725f56f3eecfa7cf1f053160/Screenshot%20(50).png)
+![image alt](https://github.com/viko00216/Consumer-Behavior-Churn-Rate-Analysis-/blob/0fa02e92cf6d92ffc119524c01709a62e9cfd3a1/dataset-cover.jpg)
+
 Analysis of the key drivers of churn and recommendations to reduce churn rate.
 
 ## Executive summary
